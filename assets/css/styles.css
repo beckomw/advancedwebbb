@@ -200,3 +200,40 @@ header nav li{
     font-size:30px;
     margin: 25px 0;
 }
+
+
+
+element.style {
+}
+
+
+
+.App, .App-sidebar, .preview-viewport, .sqs-damask {
+    height: 100%;
+}
+
+div {
+    display: block;
+}
+
+
+body {
+    color: #3e3e3e;
+}
+
+body {
+    background: #f6f6f6;
+    color: #3e3e3e;
+    font: 400 normal 12px/22px Clarkson,Proxima Nova,Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+html {
+    font: 400 normal 12px / 22px 'Clarkson','Helvetica Neue',Helvetica,Arial,sans-serif;
+    letter-spacing: normal;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-text-size-adjust: none;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
